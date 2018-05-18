@@ -1,5 +1,5 @@
 # Account API 
-> version: `stable-2016-11-01`
+> version: `stable/2016-11-01`
 
 ## Prerequisites
 We depend `azure-rest-api-specs-pr` and `azure-libraries-for-java` to generate Java API. So make sure you have these files in current directory before running `autorest`.
@@ -9,7 +9,6 @@ We depend `azure-rest-api-specs-pr` and `azure-libraries-for-java` to generate J
 > 2. `git clone https://github.com/Azure/azure-libraries-for-java.git`
 
 ## Getting Started 
-
 To build the SDKs for Account API, simply install AutoRest via `npm` (`npm install -g autorest`) and then run:
 > `cd azure-rest-api-specs-pr/specification/datalake-analytics/resource-manager/Microsoft.DataLakeAnalytics/stable/2016-11-01`
 
